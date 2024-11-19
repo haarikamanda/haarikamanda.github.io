@@ -9,5 +9,4 @@ paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10068090'
 citation: 'H. Manda, S. Dash and R. K. Tripathy, "Time-Frequency Domain Modified Vision Transformer Model for Detection of Atrial Fibrillation using Multi-lead ECG Signals," 2023 National Conference on Communications (NCC), Guwahati, India, 2023, pp. 1-5, doi: 10.1109/NCC56989.2023.10068090.'
 ---
 
-#[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
