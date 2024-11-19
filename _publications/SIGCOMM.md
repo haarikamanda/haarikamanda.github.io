@@ -21,6 +21,5 @@ Sydney, NSW, Australia. ACM, New York, NY, USA, 22 pages. https:
 //doi.org/10.1145/3651890.3672272'
 ---
 
-#[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 
