@@ -85,7 +85,6 @@ author:
   bio              : "PhD Student at University of California, Santa Barbara"
   location         : "Santa Barbara, California"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Xk70v1UAAAAJ&hl=en&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/haarikamanda"
+  github           : "haarikamanda"
   google_plus      :
   keybase          :
   instagram        :
