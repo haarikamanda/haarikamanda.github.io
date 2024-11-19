@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-#[Download paper here](http://academicpages.github.io/files/Haarika_Manda_CV_website.pdf)
+#[Download CV here](http://academicpages.github.io/files/Haarika_Manda_CV_website.pdf)
 
