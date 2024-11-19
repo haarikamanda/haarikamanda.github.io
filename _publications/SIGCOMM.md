@@ -3,12 +3,10 @@ title: "The Efficacy of the Connect America Fund in
 Addressing US Internet Access Inequities"
 collection: publications
 permalink: 'https://dl.acm.org/doi/pdf/10.1145/3651890.3672272'
-excerpt: 'Residential fixed broadband internet access in the US re-
-mains inequitable, despite significant taxpayer investment.
+excerpt: 'Residential fixed broadband internet access in the US remains inequitable, despite significant taxpayer investment.
 This paper evaluates the efficacy of the Connect America
 Fund (CAF), which subsidizes new broadband monopolies
-in underserved areas to provide internet access compara-
-ble to that in urban regions.'
+in underserved areas to provide internet access comparable to that in urban regions.'
 date: 2024-08-04
 venue: 'ACM SIGCOMM ’24'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3651890.3672272'
