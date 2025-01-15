@@ -21,7 +21,7 @@ Feel free to explore my work, and don’t hesitate to reach out for collaboratio
 
 ## Recent Activities & News
 
-- **January 2025**: Our [SIGCOMM'24 paper](https://dl.acm.org/doi/10.1145/3651890.3672272) was awarded the [IRTF's Applied Network Research Prize](https://irtf.org/anrp/).
+- **January 2025**: My [SIGCOMM'24 paper](https://dl.acm.org/doi/10.1145/3651890.3672272) was awarded the [IRTF's Applied Network Research Prize](https://irtf.org/anrp/).
 - **October 2024**: Presented findings from my SIGCOMM'24 paper during the [Digital Inclusion Research Webinar Series](https://www.dallasfed.org/cd/events/2024/24di-webinars) organized by the Federal Reserve Bank of Dallas.
 - **August 2024**: Published my [SIGCOMM'24 paper](https://dl.acm.org/doi/10.1145/3651890.3672272), revealing significant shortcomings in ISP service compliance in rural America.
 - **April 2024**: Awarded the [NSF Graduate Research Fellowship (GRFP)](https://cs.ucsb.edu/happenings/awards/nsf-awards-graduate-research-fellowships-haarika-manda-and-joyce-passananti).
