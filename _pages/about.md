@@ -11,7 +11,7 @@ redirect_from:
 
 About Me
 ======
-I am a PhD Student at the [University of California, Santa Barbara (UCSB)](https://www.cs.ucsb.edu/) co-advised by Professors [Elizabeth Belding](https://sites.cs.ucsb.edu/~ebelding/) and [Arpit Gupta](https://sites.cs.ucsb.edu/~gupta/). My current interest lies at the intersection of computer networks, internet measurement, and machine learning, further supported by my receipt of the [NSF Graduate Research Fellowship (GRFP)](https://cs.ucsb.edu/happenings/awards/nsf-awards-graduate-research-fellowships-haarika-manda-and-joyce-passananti). I aim to build large-scale and scalable systems that have practical applications in both industry and academia.
+I am a PhD Student at the [University of California, Santa Barbara (UCSB)](https://www.cs.ucsb.edu/) co-advised by Professors [Elizabeth Belding](https://ebelding.cs.ucsb.edu/) and [Arpit Gupta](https://sites.cs.ucsb.edu/~arpitgupta/). My current interest lies at the intersection of computer networks, internet measurement, and machine learning, further supported by my receipt of the [NSF Graduate Research Fellowship (GRFP)](https://cs.ucsb.edu/happenings/awards/nsf-awards-graduate-research-fellowships-haarika-manda-and-joyce-passananti). I aim to build large-scale and scalable systems that have practical applications in both industry and academia.
 
 My overall goal is to study the three critical dimensions of internet broadband: availability, affordability, and quality. I have explored broadband availability through my [SIGCOMM'24 paper](https://dl.acm.org/doi/10.1145/3651890.3672272) on assessing ISP deployment in the United States. Currently, I am working on characterizing broadband quality using foundation models and speed test measurements.
 
