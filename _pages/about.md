@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+## About Me
 
 I am a PhD Student at the [University of California, Santa Barbara (UCSB)](https://www.cs.ucsb.edu/) co-advised by Professors [Elizabeth Belding](https://sites.cs.ucsb.edu/~ebelding/) and [Arpit Gupta](https://sites.cs.ucsb.edu/~gupta/). My current interest lies at the intersection of computer networks, internet measurement, and machine learning, further supported by my receipt of the [NSF Graduate Research Fellowship (GRFP)](https://cs.ucsb.edu/happenings/awards/nsf-awards-graduate-research-fellowships-haarika-manda-and-joyce-passananti). I aim to build large-scale and scalable systems that have practical applications in both industry and academia.
 
