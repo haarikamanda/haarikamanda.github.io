@@ -17,7 +17,7 @@ My overall goal is to study the three critical dimensions of internet broadband:
 
 For more about my work in data-driven policymaking, visit our [project webpage](https://address.cs.ucsb.edu/).
 
-Feel free to explore my work, and don’t hesitate to reach out for collaborations or discussions (email: hmanda@ucsb.edu) !
+Feel free to explore my work, and don’t hesitate to reach out for collaborations or discussions (email: hmanda[at]ucsb.edu) !
 
 
 ## Recent Activities & News
